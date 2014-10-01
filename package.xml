@@ -12,10 +12,8 @@
   <author>Jeremy Leibs</author>
   <author>Ken Conley</author>
 
-  <!-- Dependencies which this package needs to build itself. -->
   <buildtool_depend>catkin</buildtool_depend>
 
-  <!-- Dependencies needed to compile this package. -->
   <build_depend>rospy</build_depend>
   <build_depend>roslaunch</build_depend>
   <build_depend>rosgraph</build_depend>
