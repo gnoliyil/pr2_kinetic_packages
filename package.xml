@@ -1,6 +1,6 @@
 <package>
   <name>willow_maps</name>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <description>Holds maps of Willow Garage that can be used for a number of different applications.</description>
   <maintainer email="dash@clearpathrobotics.com">Dash</maintainer>
 
