@@ -40,7 +40,7 @@ catkin_package(
 )
 
 
-install(PROGRAMS scripts/app_manager scripts/rosget scripts/test_app.py
+install(PROGRAMS scripts/app_manager scripts/rosget scripts/test_app.py bin/appmaster
  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
 install(DIRECTORY msg msg_gen scripts src srv srv_gen test
  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION})
