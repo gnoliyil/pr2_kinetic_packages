@@ -6,6 +6,12 @@ This is a catkin workspace for PR2 packages which can be run on ROS version Kine
 
 ## Installation and Usage
 
+__Step 0.__ Clone this repository with all the submodules: 
+
+```bash 
+   git clone --recursive https://github.com/gnoliyil/pr2_kinetic_packages.git
+```
+
 __Step 1.__ Install dependency packages: `ros-kinetic-pr2-common` `ros-kinetic-pr2-description` `ros-kinetic-pr2-machine` `ros-kinetic-pr2-msgs` and `ros-kinetic-moveit` are required; Download EML(EtherCAT Master for Linux) from [this repository](https://github.com/ros-gbp/eml-release/tree/release/hydro/eml/eml-svn) (in release/hydro/eml branch) and run 
 ``` bash
     $ mkdir build
