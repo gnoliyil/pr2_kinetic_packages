@@ -42,7 +42,7 @@ __Step 3.__ Set environment variables using `source devel_isolated/setup.sh`. Yo
 
 These packages are included: 
 
-- `pr2_robot` (Source: https://github.com/PR2/pr2\_robot)
+- `pr2_robot` (Source: https://github.com/PR2/pr2_robot)
   - `imu_monitor` 
   - `pr2_bringup`
   - `pr2_camera_synchronizer` 
@@ -50,7 +50,7 @@ These packages are included:
   - `pr2_controller_configuration`
   - `pr2_ethercat`
   - `pr2_run_stop_auto_restart`
-- `pr2_controllers`: (Source: https://github.com/pr2/pr2\_controllers)
+- `pr2_controllers`: (Source: https://github.com/pr2/pr2_controllers)
   - `control_toolbox`
   - `ethercat_trigger_controllers`
   - `joint_trajectory_action`
@@ -61,40 +61,40 @@ These packages are included:
   - `pr2_mechanism_controllers`
   - `robot_mechanism_controllers`
   - `single_joint_position_action`
-- `pr2_ethercat_drivers`: (Source: https://github.com/PR2/pr2\_ethercat\_drivers)
+- `pr2_ethercat_drivers`: (Source: https://github.com/PR2/pr2_ethercat_drivers)
   - `ethercat_hardware`
   - `fingertip_pressure`
-- `pr2_common_actions`: (Source: https://github.com/pr2/pr2\_common\_actions)
+- `pr2_common_actions`: (Source: https://github.com/pr2/pr2_common_actions)
   - `joint_trajectory_action_tools`
   - `joint_trajectory_generator`
   - `pr2_arm_move_ik`
   - `pr2_common_action_msgs`
   - `pr2_tilt_laser_interface`
   - `pr2_tuck_arms_action`
-- `pr2_power_drivers`: (Source: https://github.com/pr2/pr2\_power\_drivers)
+- `pr2_power_drivers`: (Source: https://github.com/pr2/pr2_power_drivers)
   - `ocean_battery_driver`
   - `power_monitor`
   - `pr2_power_board`
-- `pr2_apps`: (Source: https://github.com/pr2/pr2\_apps)
+- `pr2_apps`: (Source: https://github.com/pr2/pr2_apps)
   - `pr2_app_manager`
   - `pr2_mannequin_mode`
   - `pr2_position_scripts`
   - `pr2_teleop`
   - `pr2_teleop_general`
   - `pr2_tuckarm`
-- `pr2_simulator`: (Source: https://github.com/PR2/pr2\_simulator)
+- `pr2_simulator`: (Source: https://github.com/PR2/pr2_simulator)
   - `pr2_controller_configuration_gazebo`
   - `pr2_gazebo`
   - `pr2_gazebo_plugins`
-- `pr2_mechanism`: (Source: https://github.com/pr2/pr2\_mechanism)
+- `pr2_mechanism`: (Source: https://github.com/pr2/pr2_mechanism)
   - `pr2_controller_interface`
   - `pr2_controller_manager`
   - `pr2_hardware_interface`
   - `pr2_mechanism_diagnostics`
   - `pr2_mechanism_model`
-- `app_manager` (Source: https://github.com/pr2/app\_manager) 
-- `moveit_msgs` (Source: https://github.com/ros-planning/moveit\_msgs)
-- `willow_maps` (Source: https://github.com/pr2/willow\_maps)
+- `app_manager` (Source: https://github.com/pr2/app_manager) 
+- `moveit_msgs` (Source: https://github.com/ros-planning/moveit_msgs)
+- `willow_maps` (Source: https://github.com/pr2/willow_maps)
 
 ## Notes
 
