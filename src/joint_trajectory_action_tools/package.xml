@@ -1,0 +1,32 @@
+<package>
+  <name>joint_trajectory_action_tools</name>
+  <version>0.0.9</version>
+  <description>
+    joint_trajectory_action_tools
+  </description>
+
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+
+  <author>Melonee Wise</author>
+ 
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/joint_trajectory_action_tools</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_common_actions/issues</url>
+  <url type="repository">https://github.com/PR2/pr2_common_actions</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roslib</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>joint_trajectory_action</build_depend>
+  <build_depend>trajectory_msgs</build_depend>
+  <build_depend>pr2_controllers_msgs</build_depend>
+
+  <run_depend>roslib</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>joint_trajectory_action</run_depend>
+  <run_depend>trajectory_msgs</run_depend>
+  <run_depend>pr2_controllers_msgs</run_depend>
+
+</package>

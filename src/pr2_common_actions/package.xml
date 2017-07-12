@@ -1,0 +1,36 @@
+<package>
+  <name>pr2_common_actions</name>
+  <version>0.0.9</version>
+  <description>
+    Various actions which help in moving the arms of the PR2
+    or getting data from its tilting laser.
+  </description>
+
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+
+  <author>Eitan Marder-Eppstein</author>
+  <author>Wim Meeusen</author>
+  <author>Vijay Pradeep</author>
+  <author>Radu Rusu</author>
+  <author>Melonee Wise</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://wiki.ros.org/pr2_common_actions</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_common_actions/issues</url>
+  <url type="repository">https://github.com/PR2/pr2_common_actions</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>joint_trajectory_action_tools</run_depend>
+  <run_depend>joint_trajectory_generator</run_depend>
+  <run_depend>pr2_arm_move_ik</run_depend>
+  <run_depend>pr2_common_action_msgs</run_depend>
+  <run_depend>pr2_tilt_laser_interface</run_depend>
+  <run_depend>pr2_tuck_arms_action</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>

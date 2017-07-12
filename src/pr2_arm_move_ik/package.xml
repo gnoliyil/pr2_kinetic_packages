@@ -1,0 +1,43 @@
+<package>
+  <name>pr2_arm_move_ik</name>
+  <version>0.0.9</version>
+  <description>
+    Move the pr2 arm using inverse kinematics
+  </description>
+
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+
+  <author>Wim Meeusen</author>
+  <author>Melonee Wise</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/pr2_arm_move_ik</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_common_actions/issues</url>
+  <url type="repository">https://github.com/PR2/pr2_common_actions</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>actionlib</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>actionlib_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>pr2_controllers_msgs</build_depend>
+  <build_depend>pr2_common_action_msgs</build_depend>
+  <build_depend>tf</build_depend>
+  <!-- TODO: replace this with IK solver from KDL or import pr2_arm_kinematics into this -->
+  <!--build_depend>pr2_arm_kinematics</build_depend-->
+  <build_depend>urdf</build_depend>
+
+  <run_depend>actionlib</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>actionlib_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>pr2_controllers_msgs</run_depend>
+  <run_depend>pr2_common_action_msgs</run_depend>
+  <run_depend>tf</run_depend>
+  <!-- TODO: replace this with IK solver from KDL or import pr2_arm_kinematics into this -->
+  <!--run_depend>pr2_arm_kinematics</run_depend-->
+  <run_depend>urdf</run_depend>
+
+</package>

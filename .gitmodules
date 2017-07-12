@@ -1,0 +1,9 @@
+[submodule "src/app_manager"]
+	path = src/app_manager
+	url = https://github.com/PR2/app_manager.git
+[submodule "src/moveit_msgs"]
+	path = src/moveit_msgs
+	url = https://github.com/ros-planning/moveit_msgs.git
+[submodule "src/willow_maps"]
+	path = src/willow_maps
+	url = https://github.com/PR2/willow_maps.git

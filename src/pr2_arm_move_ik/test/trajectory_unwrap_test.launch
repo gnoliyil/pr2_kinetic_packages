@@ -1,0 +1,5 @@
+<launch>
+        <param name="urdf_file_path" type="str" value="$(find pr2_arm_ik_action)/test/test_robot.xml"/>
+        <test test-name="trajectory_unwrap_test" pkg="pr2_arm_ik_action" type="trajectory_unwrap_test"/>
+
+</launch>

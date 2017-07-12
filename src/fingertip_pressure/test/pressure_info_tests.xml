@@ -1,0 +1,9 @@
+<launch>
+  <!-- Bring up the nodes we want to test. -->
+  <node pkg="fingertip_pressure" name="sim_sensor" type="sim_sensor.py" />
+  <node pkg="fingertip_pressure" name="sensor_info" type="sensor_info.py" />
+  
+	<test test-name="pressure_info_test" pkg="fingertip_pressure"
+      type="pressure_info_test.py" name="content_test"/>
+
+</launch>

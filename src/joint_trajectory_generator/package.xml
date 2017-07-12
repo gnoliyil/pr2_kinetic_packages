@@ -1,0 +1,39 @@
+<package>
+  <name>joint_trajectory_generator</name>
+  <version>0.0.9</version>
+  <description>
+    joint_trajectory_generator action takes in a trajectory specified
+    by a number of joint positions, and it generates a new smooth trajectory
+    through these joint positions.
+  </description>
+
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+
+  <author>Eitan Marder-Eppstein</author>
+  <author>Wim Meeusen</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/joint_trajectory_generator</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_common_actions/issues</url>
+  <url type="repository">https://github.com/PR2/pr2_common_actions</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>actionlib</build_depend>
+  <build_depend>angles</build_depend>
+  <build_depend>orocos_kdl</build_depend>
+  <build_depend>joint_trajectory_action</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>urdf</build_depend>
+  <build_depend>pr2_controllers_msgs</build_depend>
+
+  <run_depend>actionlib</run_depend>
+  <run_depend>angles</run_depend>
+  <run_depend>orocos_kdl</run_depend>
+  <run_depend>joint_trajectory_action</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>urdf</run_depend>
+  <run_depend>pr2_controllers_msgs</run_depend>
+
+</package>

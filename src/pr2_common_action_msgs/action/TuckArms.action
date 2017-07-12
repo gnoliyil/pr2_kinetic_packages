@@ -1,0 +1,9 @@
+#goal definition
+bool tuck_left
+bool tuck_right
+---
+#result definition
+bool tuck_left
+bool tuck_right
+---
+#feedback

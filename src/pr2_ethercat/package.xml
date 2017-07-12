@@ -1,0 +1,31 @@
+<package>
+  <name>pr2_ethercat</name>
+  <version>1.6.24</version>
+  <description>Main loop that runs the robot.</description>
+  <maintainer email="ahendrix@willowgarage.com">Devon Ash</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">http://pr.willowgarage.com</url>
+  <!-- <url type="bugtracker"></url> -->
+
+  <author email="wheeler@willowgarage.com">Rob Wheeler</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>pr2_controller_manager</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>ethercat_hardware</build_depend>
+  <build_depend>std_srvs</build_depend>
+  <build_depend>realtime_tools</build_depend>
+  <build_depend>diagnostic_msgs</build_depend>
+  <build_depend>diagnostic_updater</build_depend>
+
+  <run_depend>pr2_controller_manager</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>ethercat_hardware</run_depend>
+  <run_depend>std_srvs</run_depend>
+  <run_depend>realtime_tools</run_depend>
+  <run_depend>diagnostic_msgs</run_depend>
+  <run_depend>diagnostic_updater</run_depend>
+</package>

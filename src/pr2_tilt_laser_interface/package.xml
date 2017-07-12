@@ -1,0 +1,47 @@
+<package>
+  <name>pr2_tilt_laser_interface</name>
+  <version>0.0.9</version>
+  <description>
+    Provides a set of tools/actions for manipulating the pr2's tilting
+    laser. Simplifies previously complex tasks, such as fetching
+    a single sweep, given a set of desired parameters for both the laser
+    driver and tilting platform.
+  </description>
+
+  <maintainer email="dash@clearpathrobotics.com">Devon Ash</maintainer>
+
+  <author>Radu Rusu</author>
+  <author>Wim Meeusen</author>
+  <author>Vijay Pradeep</author>
+
+  <license>BSD</license>
+
+  <url type="website">http://ros.org/wiki/pr2_tilt_laser</url>
+  <url type="bugtracker">https://github.com/PR2/pr2_common_actions/issues</url>
+  <url type="repository">https://github.com/PR2/pr2_common_actions</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>roscpp</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>actionlib_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>pr2_msgs</build_depend>
+  <build_depend>laser_geometry</build_depend>
+  <build_depend>pcl_ros</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+  <build_depend>eigen</build_depend>
+  <build_depend>message_generation</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>actionlib_msgs</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>pr2_msgs</run_depend>
+  <run_depend>laser_geometry</run_depend>
+  <run_depend>pcl_ros</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <run_depend>eigen</run_depend>
+  <run_depend>message_runtime</run_depend>
+
+</package>
