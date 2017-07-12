@@ -30,7 +30,6 @@ CMake Error at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:83 (find_p
 ```
 It means you need to install other dependency packages from apt-get. 
 
-
 __Step 3.__ Set environment variables using `source devel_isolated/setup.sh`. You can add it in your `.bashrc` file. 
 
 ## Packages 
