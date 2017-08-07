@@ -1,4 +1,6 @@
 /*
+ * 2017, Yilong Li.
+ *
  * Copyright (c) 2008, Willow Garage, Inc.
  * All rights reserved.
  *
@@ -75,7 +77,7 @@ void UnrealRosNode::Load()
     {
       int argc = 0;
       char** argv = NULL;
-      ros::init(argc,argv,"unreal",ros::init_options::NoSigintHandler|ros::init_options::AnonymousName);
+      ros::init(argc,argv,"unreal",ros::init_options::NoSigintHandler);
     }
     this->rosnode_ = new ros::NodeHandle(this->robotNamespace);
     ROS_INFO("starting unreal_ros_node in ns: %s",this->robotNamespace.c_str());
@@ -101,6 +103,7 @@ void UnrealRosNode::Load()
         {
             std::string joint_name = this->cm_->state_->joint_states_[i].joint_->name;
             this->joint_name.push_back(joint_name);
+            ROS_INFO("JOINT NAME: %s TYPE: %d",joint_name.c_str(), this->cm_->state_->joint_states_[i].joint_->type);
 
             /** TODO: we need to check if this joint is in Unreal game */
         }
@@ -111,6 +114,7 @@ void UnrealRosNode::Load()
 
 void UnrealRosNode::JointStateCallback(const sensor_msgs::JointState::ConstPtr& msg)
 {
+    ROS_INFO("Joint State Callback");
     for (auto it = this->joint_velocity.begin(); it != this->joint_velocity.end(); it++)
         it->second = 0;
     for (auto it = this->joint_position.begin(); it != this->joint_position.end(); it++)
@@ -301,6 +305,15 @@ int main(int argc, char** argv)
 {
     UnrealRosNode unreal_ros_node;
     unreal_ros_node.Load();
-    ros::spin();
+    /* ros::Rate r(100);
+    while (ros::ok())
+    {
+        ROS_INFO("tick");
+        ros::spinOnce();
+        r.sleep();
+    }
+    ROS_INFO("end"); */
+    ros::MultiThreadedSpinner spinner(4); // use multi-thread spinner to avoid blocking
+    spinner.spin();
     return 0;
 }
