@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.12)
-project(pr2_unreal_node)
+project(pr2_unreal)
 
 add_definitions(-fPIC)
 

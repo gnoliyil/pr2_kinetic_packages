@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <version>0.1.0</version>
-  <name>pr2_unreal_node</name>
+  <name>pr2_unreal</name>
   <description>
     Unreal Node for various PR2-specific sensors and actuators on the robot.
   </description>

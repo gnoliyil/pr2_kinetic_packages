@@ -42,7 +42,7 @@
 #include <urdf/model.h>
 
 #include "sensor_msgs/JointState.h"
-#include "pr2_unreal_node/unreal_ros_node.h"
+#include "pr2_unreal/unreal_ros_node.h"
 
 UnrealRosNode::~UnrealRosNode()
 {
