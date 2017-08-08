@@ -1,0 +1,11 @@
+<launch>
+  
+  <!-- Startup PR2 without any mechanism controllers -->
+  <include file="$(find pr2_gazebo)/launch/pr2_no_controllers_simple.launch" />
+
+  <!-- Load and Start Default Controllers -->
+  <include file="$(find pr2_controller_configuration_gazebo)/launch/pr2_default_controllers_simple.launch" />
+  <param name="pr2_controller_manager/joint_state_publish_rate" value="2" />
+
+</launch>
+
