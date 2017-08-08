@@ -7,3 +7,6 @@
 [submodule "src/willow_maps"]
 	path = src/willow_maps
 	url = https://github.com/PR2/willow_maps.git
+[submodule "src/pr2_unreal"]
+	path = src/pr2_unreal
+	url = git@github.com:gnoliyil/pr2_unreal.git
