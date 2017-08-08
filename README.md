@@ -12,7 +12,7 @@ __Step 0.__ Clone this repository with all the submodules:
    git clone --recursive https://github.com/gnoliyil/pr2_kinetic_packages.git
 ```
 
-__Step 1.__ Install dependency packages: `ros-kinetic-pr2-common` `ros-kinetic-pr2-description` `ros-kinetic-pr2-machine` `ros-kinetic-pr2-msgs` and `ros-kinetic-moveit` are required; Download EML(EtherCAT Master for Linux) from [this repository](https://github.com/ros-gbp/eml-release/tree/release/hydro/eml/eml-svn) (in release/hydro/eml branch) and run 
+__Step 1.__ Install dependency packages: `ros-kinetic-pr2-common` `ros-kinetic-pr2-description` `ros-kinetic-pr2-machine` `ros-kinetic-pr2-msgs` and `ros-kinetic-moveit` are required; Download EML(EtherCAT Master for Linux) from [this repository](https://github.com/ros-gbp/eml-release/tree/release/hydro/eml/eml-svn) (in release/hydro/eml branch) and run (do not run in the catkin workspace)
 ``` bash
     $ mkdir build
     $ cd build
@@ -20,9 +20,14 @@ __Step 1.__ Install dependency packages: `ros-kinetic-pr2-common` `ros-kinetic-p
 ```
 to install the EML library. 
 
-__Step 2.__ Build all packages in __isolated__ mode. (Normal mode doesn't work for me, some service headers are not found)
+__Step 2.__ Build all packages.
 ``` bash
-    $ catkin_make_isolated
+    $ catkin_make
+```
+
+It may prompt that some service headers are __not found__, if this occurs, please use the following command to compile only the required package, then run `catkin_make` again. 
+```bash
+    $ catkin_make --pkg pr2_controllers_msgs (just an example, if other srv header files from other packages is missing, please build the corresponding package)
 ```
 
 If you see the error message like 
@@ -34,9 +39,9 @@ CMake Error at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:83 (find_p
     moveit_msgsConfig.cmake
     moveit_msgs-config.cmake
 ```
-It means you need to install other dependency packages from apt-get. 
+It means you need to install other dependency packages from `apt-get` (`ros-kinetic-moveit-msgs` in the example above)
 
-__Step 3.__ Set environment variables using `source devel_isolated/setup.sh`. You can add it in your `.bashrc` file. 
+__Step 3.__ Set environment variables using `source devel/setup.sh`. Please add it in your `.bashrc` file. 
 
 ## Packages 
 
