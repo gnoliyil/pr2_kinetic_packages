@@ -25,10 +25,20 @@ __Step 2.__ Build all packages.
     $ catkin_make
 ```
 
-It may prompt that some service headers are __not found__, if this occurs, please use the following command to compile only the required package, then run `catkin_make` again. 
-```bash
-    $ catkin_make --pkg pr2_controllers_msgs (just an example, if other srv header files from other packages is missing, please build the corresponding package)
+It may prompt that some service headers are __not found__, if this occurs, please use the following command to compile only the required package, then run `catkin_make` again.
+
+For example, if it prompts  
 ```
+/home/gnoliyil/Work/catkin-ws/src/pr2_teleop/src/teleop_gripper.cpp:32:52: fatal error: pr2_controllers_msgs/Pr2GripperCommand.h: No such file or directory
+/home/gnoliyil/Work/catkin-ws/src/pr2_teleop/src/teleop_pr2.cpp:44:65: fatal error: pr2_controllers_msgs/JointTrajectoryControllerState.h: No such file or directory
+compilation terminated.
+/home/gnoliyil/Work/catkin-ws/src/pr2_run_stop_auto_restart/src/run_stop_auto_restart.cpp:33:47: fatal error: pr2_power_board/PowerBoardCommand.h: No such file or directory
+```
+Just run 
+```bash
+    $ catkin_make --pkg pr2_controllers_msgs pr2_power_board
+```
+Then run `$ catkin_make` again. 
 
 If you see the error message like 
 ```
@@ -100,6 +110,7 @@ These packages are included:
 - `app_manager` (Source: https://github.com/pr2/app_manager) 
 - `moveit_msgs` (Source: https://github.com/ros-planning/moveit_msgs)
 - `willow_maps` (Source: https://github.com/pr2/willow_maps)
+- `pr2_description` (Source: https://github.com/pr2/pr2_common)
 
 ## Notes
 
@@ -108,3 +119,5 @@ These packages are included:
 2. Add `pr2_controllers_msgs` to dependency lists of `joint_trajectory_generator` (both in CMakeLists.txt and packages.xml) 
 
 3. Use `jade-devel` branch of `moveit_msgs` rather than `kinetic-devel`, since the latter one removes `GetKinematicSolverInfo.srv`, which is required by pr2 package `pr2_teleop`. 
+
+4. Add `pr2_base` model, which only includes base and torso of PR2 robot. 
