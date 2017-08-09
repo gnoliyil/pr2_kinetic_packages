@@ -1,0 +1,319 @@
+<!-- Outlet locations in 68 Willow, in the frame of the 2.5cm 
+     resolution map -->
+<outlets>
+
+ <outlet id="1">
+   <available>true</available>
+   <origin xyz="9.9 25.025 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="green"/>
+ </outlet>
+
+ <outlet id="2">
+   <available>false</available>
+   <origin xyz="12.05 24.00 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="green"/>
+   <notes description="move PhaseSpace bar; plug PhaseSpace computer in elsewhere"/>
+ </outlet>
+
+ <outlet id="3">
+   <available>false</available>
+   <origin xyz="11.85 21.55 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="157"/>
+   <notes description="move bookcase, chairs"/>
+ </outlet>
+
+ <outlet id="4">
+   <available>true</available>
+   <origin xyz="11.85 21.12 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="156"/>
+   <notes description="move chairs"/>
+ </outlet>
+
+ <outlet id="5">
+   <available>false</available>
+   <origin xyz="17.45 18.30 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="silver" />
+   <room number="green"/>
+   <notes description="not well-mapped"/>
+ </outlet>
+
+ <outlet id="6">
+   <available>true</available>
+   <origin xyz="20.37 32.80 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="143"/>
+ </outlet>
+
+ <outlet id="7">
+   <available>false</available>
+   <origin xyz="29.0 37.575 0.3" rpy="0 0 -1.57" />
+   <sockets size="4" color="orange" />
+   <room number="pool"/>
+   <notes description="move computers and tables"/>
+ </outlet>
+
+ <outlet id="8">
+   <available>false</available>
+   <origin xyz="36.65 28.67 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="white" />
+   <room number="cathedral"/>
+   <notes description="upside down"/>
+ </outlet>
+
+ <outlet id="9">
+   <available>false</available>
+   <origin xyz="45.60 32.30 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="hall"/>
+ </outlet>
+
+ <outlet id="10">
+   <available>false</available>
+   <origin xyz="46.17 40.22 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="bicycle"/>
+   <notes description="corner feature may obstruct"/>
+ </outlet>
+
+ <outlet id="11">
+   <available>false</available>
+   <origin xyz="52.15 42.07 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="bicycle"/>
+   <notes description="move bikes and racks"/>
+ </outlet>
+
+ <outlet id="12">
+   <available>false</available>
+   <origin xyz="46.15 42.90 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="bicycle"/>
+   <notes description="corner feature may obstruct"/>
+ </outlet>
+
+ <outlet id="13">
+   <available>false</available>
+   <origin xyz="42.25 42.85 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="129"/>
+   <notes description="move whiteboard and table"/>
+ </outlet>
+
+ <outlet id="14">
+   <available>false</available>
+   <origin xyz="42.57 44.70 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="128"/>
+   <notes description="very close to window; move currently unused desk"/>
+ </outlet>
+
+ <outlet id="15">
+   <available>false</available>
+   <origin xyz="39.15 39.05 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="125"/>
+   <notes description="move whiteboard and table; not in map"/>
+ </outlet>
+
+ <outlet id="16">
+   <available>true</available>
+   <origin xyz="38.95 38.45 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="123"/>
+   <notes description="move unused desk"/>
+ </outlet>
+
+ <outlet id="17">
+   <available>false</available>
+   <origin xyz="43.90 2.35 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="102"/>
+   <notes description="move whiteboard and bookcase"/>
+ </outlet>
+
+ <outlet id="18">
+   <available>false</available>
+   <origin xyz="49.62 8.52 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="hall"/>
+   <notes description="move chairs and beanbags"/>
+ </outlet>
+
+ <outlet id="19">
+   <available>false</available>
+   <origin xyz="46.92 8.47 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="hall"/>
+   <notes description="move chairs and beanbags"/>
+ </outlet>
+
+ <outlet id="20">
+   <available>true</available>
+   <origin xyz="52.65 7.17 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="105"/>
+ </outlet>
+
+ <outlet id="21">
+   <available>true</available>
+   <origin xyz="56.20 10.95 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="105"/>
+ </outlet>
+
+ <outlet id="22">
+   <available>false</available>
+   <origin xyz="55.92 14.85 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="white" />
+   <room number="107"/>
+   <notes description="move boxes; not well-mapped"/>
+ </outlet>
+
+ <outlet id="23">
+   <available>false</available>
+   <origin xyz="55.07 23.17 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="109"/>
+   <notes description="upside down; fold up treadmill; not well-mapped"/>
+ </outlet>
+
+ <outlet id="24">
+   <available>false</available>
+   <origin xyz="24.10 38.70 0.3" rpy="0 0 0.785" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="122"/>
+   <notes description="move beanbag; replace faceplate; not well-mapped"/>
+ </outlet>
+
+ <outlet id="25">
+   <available>true</available>
+   <origin xyz="20.30 44.10 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="134"/>
+   <notes description="move extra table; not well-mapped"/>
+ </outlet>
+
+ <outlet id="26">
+   <available>true</available>
+   <origin xyz="13.00 35.60 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="141"/>
+   <notes description="move closet; unplug computers; not well-mapped"/>
+ </outlet>
+
+ <outlet id="27">
+   <available>true</available>
+   <origin xyz="12.87 35.5 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="138"/>
+   <notes description="move closet and table; unplug speakers"/>
+ </outlet>
+
+ <outlet id="28">
+   <available>false</available>
+   <origin xyz="13.22 43.60 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="137"/>
+   <notes description="move unused computer and extra desk"/>
+ </outlet>
+
+ <outlet id="29">
+   <available>false</available>
+   <origin xyz="27.50 43.67 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="133"/>
+   <notes description="move extra desk"/>
+ </outlet>
+
+ <outlet id="30">
+   <available>false</available>
+   <origin xyz="28.22 16.07 0.3" rpy="0 0 1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="hall"/>
+ </outlet>
+
+ <outlet id="31">
+   <available>false</available>
+   <origin xyz="26.40 6.50 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="hall"/>
+ </outlet>
+
+ <outlet id="32">
+   <available>false</available>
+   <origin xyz="27.90 3.07 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="white" />
+   <room number="175"/>
+   <notes description="move chairs and conference table"/>
+ </outlet>
+
+ <outlet id="33">
+   <available>false</available>
+   <origin xyz="29.40 4.95 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="175"/>
+   <notes description="move chairs and conference table"/>
+ </outlet>
+
+ <outlet id="34">
+   <available>false</available>
+   <origin xyz="36.07 3.17 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="white" />
+   <room number="175"/>
+   <notes description="move chairs and conference table; not well-mapped"/>
+ </outlet>
+
+ <outlet id="35">
+   <available>false</available>
+   <origin xyz="33.45 4.97 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="2" color="white" />
+   <room number="175"/>
+   <notes description="move chairs and conference table"/>
+ </outlet>
+
+ <outlet id="36">
+   <available>false</available>
+   <origin xyz="12.57 4.82 0.3" rpy="0 0 -1.57" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="165"/>
+   <notes description="whiteboard on wall in way"/>
+ </outlet>
+
+ <outlet id="37">
+   <available>false</available>
+   <origin xyz="9.82 2.15 0.3" rpy="0 0 3.14" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="unknown"/>
+   <notes description="move table"/>
+ </outlet>
+
+ <outlet id="38">
+   <available>true</available>
+   <origin xyz="7.60 2.60 0.3" rpy="0 0 0" /> <!-- meters, radians -->
+   <sockets size="4" color="orange" />
+   <room number="unknown"/>
+   <notes description="move table"/>
+ </outlet>
+
+ <outlet id="39">
+   <available>true</available>
+   <origin xyz="15.97 34.35 0.3" rpy="0 0 -1.57" />
+   <sockets size="4" color="orange" />
+   <room number="140" />
+   <notes description="Stu's office" />
+ </outlet>
+
+ <outlet id="40">
+   <available>true</available>
+   <origin xyz="20.67 35.55 0.3" rpy="0 0 0" />
+   <sockets size="4" color="orange" />
+   <room number="145" />
+   <notes description="Room next to copier" />
+ </outlet>
+
+</outlets>
+

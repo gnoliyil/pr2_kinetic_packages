@@ -1,0 +1,11 @@
+<outlet_approach_overrides>
+
+<outlet>
+<id>99999</id>
+<approach_point>
+<x>42.42</x>
+<y>249.2424</y>
+</approach_point>
+</outlet>
+
+</outlet_approach_overrides>

@@ -1,0 +1,1286 @@
+
+<doormap>
+  <door>
+    <hinge>
+      <y>40.714657</y>
+      <x>13.062121</x>
+    </hinge>
+    <end>
+      <y>40.729656</y>
+      <x>12.062234</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.71166</y>
+      <x>13.262098</x>
+    </hinge>
+    <end>
+      <y>40.647415</y>
+      <x>14.211242</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.555172</y>
+      <x>20.36055</x>
+    </hinge>
+    <end>
+      <y>40.51942</y>
+      <x>19.409906</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>41.70429</y>
+      <x>20.427794</x>
+    </hinge>
+    <end>
+      <y>41.688538</y>
+      <x>21.477676</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>41.899258</y>
+      <x>27.431505</x>
+    </hinge>
+    <end>
+      <y>41.862762</y>
+      <x>26.530857</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>41.89401</y>
+      <x>27.781467</x>
+    </hinge>
+    <end>
+      <y>41.88051</y>
+      <x>28.681366</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>42.03823</y>
+      <x>34.834423</x>
+    </hinge>
+    <end>
+      <y>42.00174</y>
+      <x>33.93378</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>41.983738</y>
+      <x>35.133648</x>
+    </hinge>
+    <end>
+      <y>42.02098</y>
+      <x>35.9843</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>42.07572</y>
+      <x>42.33583</x>
+    </hinge>
+    <end>
+      <y>42.139965</y>
+      <x>41.386692</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>42.07197</y>
+      <x>42.585804</x>
+    </hinge>
+    <end>
+      <y>42.108467</y>
+      <x>43.486454</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>38.41567</y>
+      <x>12.977629</x>
+    </hinge>
+    <end>
+      <y>38.429916</y>
+      <x>12.027736</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>37.711742</y>
+      <x>16.567474</x>
+    </hinge>
+    <end>
+      <y>37.72524</y>
+      <x>15.667574</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>37.757988</y>
+      <x>16.818195</x>
+    </hinge>
+    <end>
+      <y>37.69374</y>
+      <x>17.76734</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>37.17529</y>
+      <x>25.66045</x>
+    </hinge>
+    <end>
+      <y>37.784973</y>
+      <x>25.019526</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.588398</y>
+      <x>34.812675</x>
+    </hinge>
+    <end>
+      <y>40.651142</y>
+      <x>33.96352</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.583897</y>
+      <x>35.112648</x>
+    </hinge>
+    <end>
+      <y>40.5704</y>
+      <x>36.012543</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.723625</y>
+      <x>42.46557</x>
+    </hinge>
+    <end>
+      <y>40.638634</y>
+      <x>41.46418</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>40.722126</y>
+      <x>42.565556</x>
+    </hinge>
+    <end>
+      <y>40.707127</y>
+      <x>43.56544</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>39.928455</y>
+      <x>48.80435</x>
+    </hinge>
+    <end>
+      <y>38.97856</y>
+      <x>48.790104</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>35.104027</y>
+      <x>23.729168</x>
+    </hinge>
+    <end>
+      <y>36.05392</y>
+      <x>23.743418</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>34.03088</y>
+      <x>35.26437</x>
+    </hinge>
+    <end>
+      <y>34.067383</y>
+      <x>36.16502</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>34.023624</y>
+      <x>42.415062</x>
+    </hinge>
+    <end>
+      <y>34.08787</y>
+      <x>41.46592</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>34.020626</y>
+      <x>42.615044</x>
+    </hinge>
+    <end>
+      <y>34.055622</y>
+      <x>43.61568</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>34.176853</y>
+      <x>48.868088</x>
+    </hinge>
+    <end>
+      <y>35.177494</y>
+      <x>48.833096</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.947866</y>
+      <x>14.100742</x>
+    </hinge>
+    <end>
+      <y>30.947754</y>
+      <x>14.115742</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>30.996248</y>
+      <x>14.216481</x>
+    </hinge>
+    <end>
+      <y>30.88201</y>
+      <x>15.164873</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>30.431808</y>
+      <x>18.508497</x>
+    </hinge>
+    <end>
+      <y>30.367563</y>
+      <x>19.45764</x>
+    </end>
+    <orientation>
+counterclockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>30.621782</y>
+      <x>22.511797</x>
+    </hinge>
+    <end>
+      <y>30.73677</y>
+      <x>21.513409</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>30.611029</y>
+      <x>26.562094</x>
+    </hinge>
+    <end>
+      <y>30.623777</y>
+      <x>25.712189</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.305925</y>
+      <x>26.892555</x>
+    </hinge>
+    <end>
+      <y>30.657274</y>
+      <x>26.812815</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.049953</y>
+      <x>27.28876</x>
+    </hinge>
+    <end>
+      <y>29.085697</y>
+      <x>28.2394</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.330664</y>
+      <x>35.24387</x>
+    </hinge>
+    <end>
+      <y>29.344162</y>
+      <x>34.343967</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>30.67826</y>
+      <x>35.414097</x>
+    </hinge>
+    <end>
+      <y>31.413927</y>
+      <x>36.37524</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>31.37817</y>
+      <x>45.42572</x>
+    </hinge>
+    <end>
+      <y>30.618505</y>
+      <x>46.0644</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.070454</y>
+      <x>22.588535</x>
+    </hinge>
+    <end>
+      <y>28.170555</y>
+      <x>22.575037</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>29.074427</y>
+      <x>48.99157</x>
+    </hinge>
+    <end>
+      <y>28.463993</y>
+      <x>49.682495</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>28.783955</y>
+      <x>51.68752</x>
+    </hinge>
+    <end>
+      <y>29.29665</y>
+      <x>50.84511</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>26.97441</y>
+      <x>52.310444</x>
+    </hinge>
+    <end>
+      <y>27.974297</y>
+      <x>52.325443</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>26.87442</y>
+      <x>52.308945</x>
+    </hinge>
+    <end>
+      <y>25.974522</y>
+      <x>52.295444</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>21.30259</y>
+      <x>13.721025</x>
+    </hinge>
+    <end>
+      <y>22.201736</y>
+      <x>13.784519</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>20.951878</y>
+      <x>13.76577</x>
+    </hinge>
+    <end>
+      <y>20.001986</y>
+      <x>13.751521</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>24.374733</y>
+      <x>22.268066</x>
+    </hinge>
+    <end>
+      <y>23.42409</y>
+      <x>22.303814</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>20.775139</y>
+      <x>22.21407</x>
+    </hinge>
+    <end>
+      <y>19.775251</y>
+      <x>22.19907</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>23.14734</y>
+      <x>50.752865</x>
+    </hinge>
+    <end>
+      <y>23.124842</y>
+      <x>52.252697</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.373125</y>
+      <x>52.331432</x>
+    </hinge>
+    <end>
+      <y>19.475252</y>
+      <x>52.19795</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.35217</y>
+      <x>13.726771</x>
+    </hinge>
+    <end>
+      <y>18.330423</y>
+      <x>15.176608</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.244175</y>
+      <x>20.925962</x>
+    </hinge>
+    <end>
+      <y>18.222427</y>
+      <x>22.3758</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.262913</y>
+      <x>29.677227</x>
+    </hinge>
+    <end>
+      <y>18.150175</y>
+      <x>30.525633</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.184916</y>
+      <x>34.876648</x>
+    </hinge>
+    <end>
+      <y>18.198416</y>
+      <x>33.976746</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>18.214441</y>
+      <x>9.574239</x>
+    </hinge>
+    <end>
+      <y>17.315292</y>
+      <x>9.510744</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>16.222662</y>
+      <x>12.344674</x>
+    </hinge>
+    <end>
+      <y>18.223186</y>
+      <x>12.324679</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>15.868179</y>
+      <x>32.641644</x>
+    </hinge>
+    <end>
+      <y>15.85318</y>
+      <x>33.64153</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>16.055153</y>
+      <x>36.84492</x>
+    </hinge>
+    <end>
+      <y>18.054928</y>
+      <x>36.87492</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>17.89793</y>
+      <x>50.674118</x>
+    </hinge>
+    <end>
+      <y>16.04814</y>
+      <x>50.64637</x>
+    </end>
+    <orientation>
+clockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>14.722035</y>
+      <x>52.37667</x>
+    </hinge>
+    <end>
+      <y>15.721923</y>
+      <x>52.39167</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>14.422069</y>
+      <x>52.372173</x>
+    </hinge>
+    <end>
+      <y>13.52217</y>
+      <x>52.358673</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>7.2311854</y>
+      <x>1.708611</x>
+    </hinge>
+    <end>
+      <y>8.231072</y>
+      <x>1.7236104</x>
+    </end>
+    <orientation>
+counterclockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>9.056978</y>
+      <x>3.33618</x>
+    </hinge>
+    <end>
+      <y>7.957852</y>
+      <x>3.2696865</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.569479</y>
+      <x>29.151773</x>
+    </hinge>
+    <end>
+      <y>6.5567293</y>
+      <x>30.001677</x>
+    </end>
+    <orientation>
+counterclockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.593974</y>
+      <x>30.852331</x>
+    </hinge>
+    <end>
+      <y>6.5567293</y>
+      <x>30.001677</x>
+    </end>
+    <orientation>
+clockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.5864744</y>
+      <x>31.352276</x>
+    </hinge>
+    <end>
+      <y>6.622219</y>
+      <x>32.30292</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>12.378819</y>
+      <x>35.239597</x>
+    </hinge>
+    <end>
+      <y>11.428176</y>
+      <x>35.275345</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>8.627741</y>
+      <x>35.283337</x>
+    </hinge>
+    <end>
+      <y>8.70448</y>
+      <x>36.834663</x>
+    </end>
+    <orientation>
+clockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>8.386758</y>
+      <x>44.680782</x>
+    </hinge>
+    <end>
+      <y>7.486859</y>
+      <x>44.667282</x>
+    </end>
+    <orientation>
+counterclockwise 
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.436976</y>
+      <x>44.65153</x>
+    </hinge>
+    <end>
+      <y>7.486859</y>
+      <x>44.667282</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>8.507491</y>
+      <x>46.632816</x>
+    </hinge>
+    <end>
+      <y>8.52099</y>
+      <x>45.732914</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>10.871719</y>
+      <x>52.36892</x>
+    </hinge>
+    <end>
+      <y>9.921825</y>
+      <x>52.35467</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.4969907</y>
+      <x>3.967854</x>
+    </hinge>
+    <end>
+      <y>4.561984</y>
+      <x>2.9687164</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.2924004</y>
+      <x>4.2798195</x>
+    </hinge>
+    <end>
+      <y>5.278151</y>
+      <x>5.229713</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.008426</y>
+      <x>9.876189</x>
+    </hinge>
+    <end>
+      <y>5.07342</y>
+      <x>8.877052</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.0531707</y>
+      <x>10.2269</x>
+    </hinge>
+    <end>
+      <y>5.0389214</y>
+      <x>11.176793</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.36777</y>
+      <x>12.596886</x>
+    </hinge>
+    <end>
+      <y>5.3678827</y>
+      <x>12.581886</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.940675</y>
+      <x>17.726057</x>
+    </hinge>
+    <end>
+      <y>4.955674</y>
+      <x>16.72617</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.840432</y>
+      <x>21.07493</x>
+    </hinge>
+    <end>
+      <y>4.9031763</y>
+      <x>20.225775</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.8036838</y>
+      <x>23.524656</x>
+    </hinge>
+    <end>
+      <y>4.8694277</y>
+      <x>22.475523</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.8959193</y>
+      <x>27.37647</x>
+    </hinge>
+    <end>
+      <y>4.860174</y>
+      <x>26.425829</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.8444247</y>
+      <x>27.47571</x>
+    </hinge>
+    <end>
+      <y>4.9719086</y>
+      <x>28.97779</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.032645</y>
+      <x>34.929375</x>
+    </hinge>
+    <end>
+      <y>4.946906</y>
+      <x>33.977978</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.4302382</y>
+      <x>35.100357</x>
+    </hinge>
+    <end>
+      <y>5.0311456</y>
+      <x>35.02936</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.4034815</y>
+      <x>43.550907</x>
+    </hinge>
+    <end>
+      <y>5.452088</y>
+      <x>43.636646</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.8961506</y>
+      <x>44.02835</x>
+    </hinge>
+    <end>
+      <y>5.0333843</y>
+      <x>44.880505</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.965137</y>
+      <x>49.429993</x>
+    </hinge>
+    <end>
+      <y>4.829403</y>
+      <x>48.47785</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>4.9238887</y>
+      <x>52.179684</x>
+    </hinge>
+    <end>
+      <y>4.941888</y>
+      <x>50.979816</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+</doormap>n>
+  </door>
+</doormap> <y>5.036936011750867d0</y>
+      <x>2.4247215705916623d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.806350905943845d0</y>
+      <x>3.713325697783698d0</x>
+    </hinge>
+    <end>
+      <y>5.82060037197161d0</y>
+      <x>4.663218872470718d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.690370453690453d0</y>
+      <x>9.315696214016143d0</x>
+    </hinge>
+    <end>
+      <y>5.725365582338489d0</y>
+      <x>8.315058737182284d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.745614813936713d0</y>
+      <x>9.66490629289649d0</x>
+    </hinge>
+    <end>
+      <y>5.759864276388333d0</y>
+      <x>10.614799229191753d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>7.130711529508327d0</y>
+      <x>11.994393065541601d0</x>
+    </hinge>
+    <end>
+      <y>6.130824027393939d0</y>
+      <x>12.009392502712691d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.858110592719887d0</y>
+      <x>17.164062558754402d0</x>
+    </hinge>
+    <end>
+      <y>5.843111155548798d0</y>
+      <x>16.164175056640012d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.858364147145744d0</y>
+      <x>20.514436046983885d0</x>
+    </hinge>
+    <end>
+      <y>5.895609185647612d0</y>
+      <x>19.66378131404037d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>5.895112779658577d0</y>
+      <x>22.964161190017762d0</x>
+    </hinge>
+    <end>
+      <y>5.929357919282565d0</y>
+      <x>21.913528193797745d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.10284381055381d0</y>
+      <x>26.811476630444787d0</x>
+    </hinge>
+    <end>
+      <y>6.0385997965876435d0</y>
+      <x>25.86233462243602d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.054349194173625d0</y>
+      <x>26.912215736802505d0</x>
+    </hinge>
+    <end>
+      <y>6.226831570604121d0</y>
+      <x>28.409797072967965d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.46606145388963d0</y>
+      <x>34.35687855639608d0</x>
+    </hinge>
+    <end>
+      <y>6.351823322278696d0</y>
+      <x>33.40848460882044d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>7.868153990669464d0</y>
+      <x>34.4858639939505d0</x>
+    </hinge>
+    <end>
+      <y>6.4675613747194145d0</y>
+      <x>34.45686578090027d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>8.09488784384526d0</y>
+      <x>42.933410393115935d0</x>
+    </hinge>
+    <end>
+      <y>7.146494408814579d0</y>
+      <x>43.047650901492155d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.602556309259223d0</y>
+      <x>43.455853299929764d0</x>
+    </hinge>
+    <end>
+      <y>6.765289085859498d0</y>
+      <x>44.303510048281744d0</x>
+    </end>
+    <orientation>
+clockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.833536513544296d0</y>
+      <x>48.85299742004858d0</x>
+    </hinge>
+    <end>
+      <y>6.669303816114236d0</y>
+      <x>47.90535344719242d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+  <door>
+    <hinge>
+      <y>6.874784965764793d0</y>
+      <x>51.60268805086315d0</x>
+    </hinge>
+    <end>
+      <y>6.856785629715822d0</y>
+      <x>50.40282228547226d0</x>
+    </end>
+    <orientation>
+counterclockwise
+</orientation>
+  </door>
+</doormap>
