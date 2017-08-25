@@ -202,7 +202,7 @@ void UnrealRosNode::Update()
         if (this->fake_state_->joint_states_[i].joint_->type == urdf::Joint::REVOLUTE ||
             this->fake_state_->joint_states_[i].joint_->type == urdf::Joint::CONTINUOUS)
         {
-            double current_velocity = this->joint_velocity[curr_joint_name];
+            double current_velocity = angles::from_degrees(this->joint_velocity[curr_joint_name]);
             double damping_force = damping_coef * current_velocity;
             double effort_command = effort - damping_force;
             this->joint_effort[curr_joint_name] = effort_command;
@@ -211,7 +211,7 @@ void UnrealRosNode::Update()
         }
         else if (this->fake_state_->joint_states_[i].joint_->type == urdf::Joint::PRISMATIC)
         {
-            double current_velocity = this->joint_velocity[curr_joint_name];
+            double current_velocity = this->joint_velocity[curr_joint_name] / 100.0 ;
             double damping_force = damping_coef * current_velocity;
             double effort_command = effort-damping_force;
             this->joint_effort[curr_joint_name] = effort_command;
